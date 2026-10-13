@@ -13,6 +13,8 @@ Built with PHP, HTML5, CSS3, MySQL / MariaDB and the XAMPP stack between March 2
 
 ## Preview
 
+![Pet Adoption System dashboard](screenshots/dashboard-ui.jpg)
+
 ---
 
 ## Overview
